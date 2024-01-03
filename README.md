@@ -1,5 +1,7 @@
 # Matrix-Multiplier
 
+## Project for Hack Hurricane 1.0 by Team **ByteBreeze1**.
+
 ## Introduction
 Welcome to the Matrix Multiplication Webpage, a user-friendly tool designed for quick and efficient matrix calculations. This webpage is intended to serve as a valuable resource for students learning linear algebra, professionals in need of rapid matrix operations, and anyone seeking an easy-to-use matrix multiplication tool.
 
