@@ -1,7 +1,5 @@
 # Matrix-Multiplier
 
-# Matrix Multiplication Webpage
-
 ## Introduction
 Welcome to the Matrix Multiplication Webpage, a user-friendly tool designed for quick and efficient matrix calculations. This webpage is intended to serve as a valuable resource for students learning linear algebra, professionals in need of rapid matrix operations, and anyone seeking an easy-to-use matrix multiplication tool.
 
